@@ -1,0 +1,13 @@
+unnamed package
+algorithms
+entitys
+exceptions
+gameManagement
+implementation_classes
+implementation_classes.Heaps
+implementation_classes.Lists
+implementation_classes.Nodes
+implementation_classes.Queues
+implementation_classes.Trees
+importer_exporter
+Interface
